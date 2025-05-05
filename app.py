@@ -1,6 +1,6 @@
 """
-key: 2NJ64W9K7vQz6cqP
-new_client_key: 55YS2V492NT2JKuBg8FnbP7GeW9b8A9cGnptbfbs2uG4p9Ky65Q7ZsWsqkj3uP87
+key: #
+new_client_key: #
 
 request:
 {
